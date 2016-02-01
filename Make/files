@@ -1,3 +1,0 @@
-multiRegionPotentialFoam.C
-
-EXE = $(FOAM_APPBIN)/multiRegionPotentialFoam
